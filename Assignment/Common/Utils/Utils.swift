@@ -1,9 +1,6 @@
 //
 //  Utils.swift
-//  EcotechAssignment_SagarSukoode
-//
-//  Created by Tushar Khopade on 16/03/1943 .
-//
+
 
 import Foundation
 import UIKit
